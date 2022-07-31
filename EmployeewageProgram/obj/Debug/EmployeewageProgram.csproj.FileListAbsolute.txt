@@ -1,0 +1,8 @@
+C:\Users\amakuma6\source\repos\EmployeewageProgram\EmployeewageProgram\bin\Debug\EmployeewageProgram.exe.config
+C:\Users\amakuma6\source\repos\EmployeewageProgram\EmployeewageProgram\bin\Debug\EmployeewageProgram.exe
+C:\Users\amakuma6\source\repos\EmployeewageProgram\EmployeewageProgram\bin\Debug\EmployeewageProgram.pdb
+C:\Users\amakuma6\source\repos\EmployeewageProgram\EmployeewageProgram\obj\Debug\EmployeewageProgram.csproj.AssemblyReference.cache
+C:\Users\amakuma6\source\repos\EmployeewageProgram\EmployeewageProgram\obj\Debug\EmployeewageProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\amakuma6\source\repos\EmployeewageProgram\EmployeewageProgram\obj\Debug\EmployeewageProgram.csproj.CoreCompileInputs.cache
+C:\Users\amakuma6\source\repos\EmployeewageProgram\EmployeewageProgram\obj\Debug\EmployeewageProgram.exe
+C:\Users\amakuma6\source\repos\EmployeewageProgram\EmployeewageProgram\obj\Debug\EmployeewageProgram.pdb
